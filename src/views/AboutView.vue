@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="container about">
     <h1>Vue Todo Apps</h1>
   </div>
 </template>
@@ -7,7 +7,7 @@
 <style lang="scss" scoped>
 @media (min-width: 1024px) {
   .about {
-    min-height: 100vh;
+    min-height: 10vh;
     display: flex;
     align-items: center;
   }
